@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;700&display=swap');
+* {
+    font-family: 'Roboto Mono', monospace;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  h1 {
+    text-align: center;
+  }
+  .card {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .card img {
+    width: 100%;
+  }
+  .card h2 {
+    margin-top: 0;
+  }
